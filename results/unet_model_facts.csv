@@ -1,0 +1,3 @@
+Model,Parameters (M),Weights file (MB),Inference ms per batch of 8
+Scratch UNet,7.8,31.1,94.7
+Pretrained ResNet34 UNet,24.4,97.9,67.0

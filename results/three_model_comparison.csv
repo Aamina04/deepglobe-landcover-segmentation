@@ -1,0 +1,4 @@
+Model,Params (M),Weights (MB),Inference (ms),Test mIoU,Test pixel acc
+Scratch UNet,7.8,31.1,94.7,0.5698,0.805
+Pretrained ResNet34 UNet,24.4,97.9,67,0.6913,0.8642
+SegFormer (mit-b0),3.7,15,62.5,0.7101,0.8751

@@ -1,0 +1,2 @@
+Model,Parameters (M),Weights file (MB),Inference ms per batch of 8
+SegFormer (mit-b0),3.7,15.0,61.2
